@@ -1,2 +1,2 @@
 # CQSpell
-Code and datasets for paper : A Large-scale Cross-Lingual Benchmark for Chinese Query Spelling Correction
+Code and datasets for paper: QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction
